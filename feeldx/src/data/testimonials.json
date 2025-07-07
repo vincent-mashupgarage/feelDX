@@ -1,0 +1,139 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "FEELDX delivered our complex infrastructure project on time and under budget. Their innovative approach to problem-solving and commitment to quality exceeded our expectations.",
+      "name": "Sarah Johnson",
+      "title": "Director of Operations, Metro Transit Authority",
+      "avatar": "/avatars/sarah-johnson.png",
+      "company": "Metro Transit Authority",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "quote": "Working with FEELDX transformed our approach to sustainable infrastructure. Their team's expertise and dedication to innovation helped us achieve our ambitious environmental goals.",
+      "name": "Michael Chen",
+      "title": "Chief Sustainability Officer, GreenBuild Developments",
+      "avatar": "/avatars/michael-chen.png",
+      "company": "GreenBuild Developments",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "quote": "The technology integration solutions provided by FEELDX revolutionized our project management processes. We saw a 40% improvement in efficiency across all our construction sites.",
+      "name": "Elena Rodriguez",
+      "title": "Project Manager, BuildTech Solutions",
+      "avatar": "/avatars/elena-rodriguez.png",
+      "company": "BuildTech Solutions",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "quote": "FEELDX's engineering expertise and attention to detail ensured our renewable energy project met all regulatory requirements while staying within budget constraints.",
+      "name": "David Park",
+      "title": "Senior Engineer, CleanEnergy Corp",
+      "avatar": "/avatars/david-park.png",
+      "company": "CleanEnergy Corp",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "quote": "From initial consultation to project completion, FEELDX demonstrated professionalism and technical excellence. Their BIM implementation saved us months of work.",
+      "name": "Amanda Foster",
+      "title": "Construction Director, Urban Development Inc",
+      "avatar": "/avatars/amanda-foster.png",
+      "company": "Urban Development Inc",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "quote": "The smart highway system designed by FEELDX has significantly improved traffic flow and safety in our region. Their innovative IoT solutions are industry-leading.",
+      "name": "Robert Kim",
+      "title": "Transportation Commissioner, State Highway Department",
+      "avatar": "/avatars/robert-kim.png",
+      "company": "State Highway Department",
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "quote": "FEELDX's structural engineering team delivered exceptional results for our hospital expansion. Their seismic design expertise gave us confidence in long-term safety and durability.",
+      "name": "Dr. Maria Santos",
+      "title": "Chief of Operations, Regional Medical Center",
+      "avatar": "/avatars/maria-santos.png",
+      "company": "Regional Medical Center",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "quote": "The water treatment facility designed by FEELDX is a model of efficiency and environmental responsibility. Their expertise in sustainable water management is unmatched.",
+      "name": "James Wilson",
+      "title": "Municipal Engineer, City Water Works",
+      "avatar": "/avatars/james-wilson.png",
+      "company": "City Water Works",
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "quote": "FEELDX transformed our manufacturing facility with cutting-edge automation and smart systems. Production efficiency increased by 35% within the first quarter.",
+      "name": "Lisa Thompson",
+      "title": "Operations Manager, TechManufacturing Ltd",
+      "avatar": "/avatars/lisa-thompson.png",
+      "company": "TechManufacturing Ltd",
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "quote": "The digital twin technology implemented by FEELDX allows us to monitor our infrastructure in real-time. It's revolutionized our maintenance and operational strategies.",
+      "name": "Carlos Rivera",
+      "title": "Infrastructure Manager, Port Authority",
+      "avatar": "/avatars/carlos-rivera.png",
+      "company": "Port Authority",
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "quote": "FEELDX's educational facility design perfectly balances functionality with sustainability. Our new campus achieved LEED Platinum certification thanks to their expertise.",
+      "name": "Dr. Patricia Lee",
+      "title": "Campus Planning Director, State University",
+      "avatar": "/avatars/patricia-lee.png",
+      "company": "State University",
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "quote": "The earthquake retrofit project managed by FEELDX was completed ahead of schedule with minimal disruption to our operations. Their planning and execution were flawless.",
+      "name": "Thomas Anderson",
+      "title": "Facilities Director, Metropolitan Library System",
+      "avatar": "/avatars/thomas-anderson.png",
+      "company": "Metropolitan Library System",
+      "rating": 5
+    },
+    {
+      "id": 13,
+      "quote": "FEELDX's expertise in green building technologies helped us create the most energy-efficient office complex in the region. Our utility costs dropped by 45%.",
+      "name": "Jennifer Walsh",
+      "title": "Real Estate Development Manager, Eco Properties",
+      "avatar": "/avatars/jennifer-walsh.png",
+      "company": "Eco Properties",
+      "rating": 5
+    },
+    {
+      "id": 14,
+      "quote": "The bridge rehabilitation project by FEELDX extended the structure's life by 50 years while maintaining full traffic flow during construction. Remarkable engineering.",
+      "name": "Kevin O'Brien",
+      "title": "Chief Engineer, County Transportation Department",
+      "avatar": "/avatars/kevin-obrien.png",
+      "company": "County Transportation Department",
+      "rating": 5
+    },
+    {
+      "id": 15,
+      "quote": "FEELDX's innovative approach to data center cooling reduced our energy consumption by 30% while improving system reliability. Their thermal engineering is exceptional.",
+      "name": "Priya Patel",
+      "title": "Data Center Operations Manager, CloudTech Solutions",
+      "avatar": "/avatars/priya-patel.png",
+      "company": "CloudTech Solutions",
+      "rating": 5
+    }
+  ]
+} 
